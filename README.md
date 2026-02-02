@@ -38,7 +38,7 @@ Legacy retail management systems often generate sales reports exclusively in PDF
 2.  **Prepare your file:** Place your `vendas.pdf` file in the project root.
 3.  **Run the script:**
     ```bash
-    python sales_etl.py
+    python Etl-Ophyum.py
     ```
 4.  **Output:** The script generates `base_vendas_limpa.csv`, ready for consumption in **Looker Studio**, **Power BI**, or **Tableau**.
 
