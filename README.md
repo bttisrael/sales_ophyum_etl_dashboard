@@ -45,4 +45,4 @@ Legacy retail management systems often generate sales reports exclusively in PDF
 ---
 **Live Project:** [View Ophyum Modas Dashboard](https://lookerstudio.google.com/u/0/reporting/d19b9fa2-7e77-42c3-a9c7-2c59cee2fc7e/page/uhojF)
 
-*Developed by Israel Batista - Analytics & Business Intelligence*
+*Developed by Israel Buratto - Analytics & Business Intelligence*
