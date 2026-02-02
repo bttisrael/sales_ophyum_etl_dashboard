@@ -2,6 +2,7 @@
 
 This project provides a robust solution for a common challenge in the retail industry: extracting and transforming data from **unstructured PDF reports** into a clean, relational database ready for Business Intelligence (BI).
 
+<img width="1623" height="809" alt="image" src="https://github.com/user-attachments/assets/545b1fc9-eeb2-41c0-ae6e-4bc3c25d92da" />
 
 
 ##  The Challenge
